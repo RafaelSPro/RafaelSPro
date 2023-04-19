@@ -2,7 +2,7 @@
 
 👨‍🎓 Front End
 
-🤯 Atualmente estou estudando Javascript
+🤯 Aprimorando meu conhecimento em JavaScript e React!
 
 
   
