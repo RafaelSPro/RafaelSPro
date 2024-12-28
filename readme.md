@@ -1,8 +1,8 @@
-### Olá! Eu sou Rafael,desenvolvedor front-end!
+### Olá! Eu sou Rafael,Analista de Dados!
 
-👨‍🎓 Front End
+👨‍🎓 
 
-🤯 Aprimorando meu conhecimento em JavaScript e React!
+🤯 Aprimorando meu conhecimento em SQL e Python!
 
 
   
