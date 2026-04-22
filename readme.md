@@ -4,7 +4,7 @@
 
 ---
 
-<p align="left">Me chamo Rafael, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Possuo conhecimento em SQL, Power Bi, excel, N8N, HubSpot e python. Sou apaixonado por tecnológia e mais especificamente pelos insigths gerados através dos dados. Aqui vão encontrar projetos desenvolvidos por mim</p>
+<p align="left">Me chamo Rafael, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Possuo conhecimento em SQL, Power Bi, excel, N8N, HubSpot e python. Sou apaixonado por tecnologia e mais especificamente pelos insights gerados através dos dados. Aqui vão ver projetos desenvolvidos por mim</p>
 
 ---
 
@@ -77,22 +77,27 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelSPro&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+---
 
-<h3 align="left">Social Media</h3>
+### 🎬Redes Sociais
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/rafael-do-carmo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/sillvaraafael/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
-###
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/rafael-do-carmo/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/sillvaraafael/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
   
  
