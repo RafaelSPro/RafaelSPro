@@ -1,8 +1,8 @@
-<h1 align="left">Sobre Mim</h1>
+<h1 align="left">💻Rafael do Carmo</h1>
 
 ###
 
-<p align="left">Cusando Análise e Desenvolvimento de Sistemas<br>Aprendendo Power bi, SQL e Python<br>Atuando como Operador de Site Jr</p>
+<p align="left">Me chamo Rafael, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Possuo conhecimento em SQL, Power Bi, excel, N8N, HubSpot e python. Aqui,</p>
 
 ###
 
