@@ -1,26 +1,75 @@
-<h1 align="left">💻Rafael do Carmo</h1>
+#💻Rafael do Carmo
 
-###
+**`Analista de Dados`**
 
-<p align="left">Me chamo Rafael, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Possuo conhecimento em SQL, Power Bi, excel, N8N, HubSpot e python. Aqui,</p>
+---
 
-###
+<p align="left">Me chamo Rafael, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Possuo conhecimento em SQL, Power Bi, excel, N8N, HubSpot e python. Sou apaixonado por tecnológia e mais especificamente pelos insigths gerados através dos dados. Aqui vão encontrar projetos desenvolvidos por mim</p>
 
-<h2 align="left">Techs</h2>
+---
 
-###
+### 🤖Linguagens e Tecnologias
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
+<img
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+  align="left"
+  alt="SQL"
+  title="SQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
 
-###
+<img
+  align="left"
+  alt="Git"
+  title="Git"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 
-<h2 align="left">Status</h2>
+<img
+  align="left"
+  alt="Pandas"
+  title="Pandas"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+/>
 
-###
+<img
+  align="left"
+  alt="Power BI"
+  title="Power BI"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power%20BI.svg"
+/>
+<img
+  align="left"
+  alt="Excel"
+  title="Excel"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg"
+/>
+
+<br>
+<br>
+
+
+---
+
+### 🤖 Estatísticas
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelSPro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
