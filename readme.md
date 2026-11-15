@@ -4,7 +4,7 @@
 
 ---
 
-<p align="left">Me chamo Rafael, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Possuo conhecimento em SQL, Power Bi, excel, N8N, HubSpot e python. Sou apaixonado por tecnologia e mais especificamente pelos insights gerados através dos dados. Aqui vão ver projetos desenvolvidos por mim</p>
+<p align="left">Me chamo Rafael, formado em Análise e Desenvolvimento de Sistemas na UNINTER. Possuo conhecimento em SQL, Power Bi, excel,python, pandas, git e Google Cloud. Sou apaixonado por tecnologia e mais especificamente por dados, construindo pipeline de dados para disponibilização de dados confiáveis.</p>
 
 ---
 
